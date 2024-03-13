@@ -1,0 +1,16 @@
+
+ #carouselExampleIndicators {
+    background-color: #000; 
+}
+
+.carousel-item img {
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+.carousel-control-prev, .carousel-control-next, .carousel-indicators li {
+    background-color: #eb7f28;
+    border-color: #eb7f28; 
+}

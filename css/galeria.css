@@ -1,0 +1,20 @@
+.fondo{
+    background: linear-gradient(rgb(180, 104, 29), rgb(234, 232, 232) )
+}
+
+.container{
+    border: solid 2px yellowgreen;
+    border-width: 400%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2.5%;
+}
+.row{
+    padding: 5px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    box-shadow: 10px;
+}

@@ -1,0 +1,21 @@
+
+.accordion-item .accordion-button:not(.collapsed) {
+    background-color: #eb7f28;
+    color: white
+}
+.accordion-item .accordion-button.collapsed {
+    background-color: #eb7f28;
+    color: white
+}
+body { 
+    background-image: url(../images/ACORDEON);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.accordion-item .accordion-body {
+    background-color: #fcd299; 
+    color: #333;
+    padding: 20px; 
+}
